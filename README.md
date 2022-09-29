@@ -15,9 +15,9 @@ To Implement Machine Learning in predicting drilling rate of penetration using :
 For this project, data from [The U.S Energy Information Administration]("www.eia.gov") was used, The Website "www.eia.gov" contains the price of Natural gas from 1994 till date(imputed daily)
 
 ## Table of Contents
-- [Implementation of SVM, RF & XGBoost]()
-- [Implementation of Artificial Neural Network/Deep Learning]()
-
+- [Implementation of SVM, RF & XGBoost](https://github.com/Shedddy/ROP_Prediction/blob/main/ROP%20Prediction%20with%20SVM%2C%20RF%2C%20%26%20Xgboost.ipynb)
+- [Implementation of Artificial Neural Network/Deep Learning](https://github.com/Shedddy/ROP_Prediction/blob/main/ROP%20Prediction%20using%20ANN-DL.ipynb)
+- [Presentation of Project](https://github.com/Shedddy/ROP_Prediction/blob/main/Rate%20of%20Penetration%20Presentation.pptx)
 
 ## Technologies
 - Jupyter Notebook
